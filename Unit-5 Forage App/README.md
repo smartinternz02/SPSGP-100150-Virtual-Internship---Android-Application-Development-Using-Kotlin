@@ -1,41 +1,16 @@
-Forage - Starter Code
-==================================
+<h1>Unit 5: Forage App</h1>
+<p> A simple app to describe the functionality of multiple sections in an app </p>
 
-Starter code for the fifth independent project for Android Basics in Kotlin. This project pairs
-with Unit 5 of Android Basics in Kotlin
+<h1>App Overview</h1>
 
-Introduction
-------------
-
-This is the starter code for the Forage app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 5 of Android Basics in Kotlin.
-
-Pre-requisites
---------------
-
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-- Complete Project 4: Amphibians
-- Complete Unit 5 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+<p> <img src="https://user-images.githubusercontent.com/92356321/188392961-bcf0251b-4b24-436e-8092-65f3c93de875.png"
+        title="hover text" width="200px" height="350px" > </p>
+<p> <img src="https://user-images.githubusercontent.com/92356321/188392974-ca2bccdb-953c-4169-871c-109c37a25c5c.png"
+        width="200px" height="350px"> </p>
+<p> <img src="https://user-images.githubusercontent.com/92356321/188393000-1dfd42c3-430c-4d85-ad36-cf59ce10d8f1.png"
+        width="200px" height="350px"> </p>
+<p> <img src="https://user-images.githubusercontent.com/92356321/188393022-bd6b503d-eab0-4236-97fc-a594e66f90eb.png"
+        width="200px" height="350px"> </p>
+        
+<h1>About Me</h1>
+<p> I'm Surya, a computer science student interested in latest technologies </p>
