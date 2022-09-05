@@ -1,43 +1,14 @@
-Water Me - Starter Code
-==================================
+<h1>Unit 6: Water Me App</h1>
+<p> A simple remainder app made using kotlin </p>
 
-Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
-with Unit 6 of Android Basics in Kotlin
+<h1>App Overview</h1>
 
-Introduction
-------------
-
-This is the starter code for the Water Me app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 6 of Android Basics in Kotlin.
-
-Pre-requisites
---------------
-
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-- Complete Project 4: Amphibians
-- Complete Unit 5 of Android Basics in Kotlin
-- Complete Project 5: Forage
-- Complete Unit 6 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+<p> <img src="https://user-images.githubusercontent.com/92356321/188394064-35aaac0a-7c0c-4747-afac-f015e943bc45.png"
+        title="hover text" width="200px" height="350px" > </p>
+<p> <img src="https://user-images.githubusercontent.com/92356321/188394076-8c0f8c31-3019-4355-bb36-dba88de9bd2d.png"
+        width="200px" height="350px"> </p>
+<p> <img src="https://user-images.githubusercontent.com/92356321/188394082-db496987-7f1b-47b0-8a92-18606ccdf217.png"
+        width="200px" height="350px"> </p>
+        
+<h1>About Me</h1>
+<p> I'm Surya, a computer science student interested in latest technologies </p>
