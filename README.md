@@ -42,3 +42,5 @@ Name: [Surya Teja Gorle](https://github.com/Mufasa-105)
   
 - [Water Me](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Unit-6%20Water%20Me%20App)
 </details>
+
+<h1> Thankyou SMARTINTERNZ and GOOGLE for this amazing oppurtunity</h1>
