@@ -1,5 +1,5 @@
 <h1>Unit 5: Forage App</h1>
-<p> A simple app to describe the functionality of multiple sections in an app </p>
+<p> A simple app to describe the functionality of form control in an android app </p>
 
 <h1>App Overview</h1>
 
