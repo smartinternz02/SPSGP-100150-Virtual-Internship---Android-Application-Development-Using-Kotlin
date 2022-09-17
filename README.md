@@ -7,12 +7,14 @@ Name: [Surya Teja Gorle](https://github.com/Mufasa-105)
 
 ------------
 
-<details>
-    <summary><b>Project : Grocery App</b></summary>
-  
-- [Grocery App using Kotlin](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App
-)
-</details>
+Major Project/Main Projects
+==========================
+
+ <summary><b>Grocery App : https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App</b></summary>
+ <summary><b>SearchNearbyBusiness : https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Search%20Nearby%20Business</b></summary>
+
+All units projects (course projects )
+==========================
 
 <details>
     <summary><b>Unit 1: Kotlin Basics</b></summary>
