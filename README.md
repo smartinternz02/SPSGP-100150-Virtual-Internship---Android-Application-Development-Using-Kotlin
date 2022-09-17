@@ -10,8 +10,16 @@ Name: [Surya Teja Gorle](https://github.com/Mufasa-105)
 Major Project/Main Projects
 ==========================
 
- <summary><b>Grocery App : https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App</b></summary>
- <summary><b>SearchNearbyBusiness : https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Search%20Nearby%20Business</b></summary>
+<details>
+    <summary><b>Grocery App</b></summary>
+  
+- [Grocery App](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App)
+</details>
+<details>
+    <summary><b>Search Nearyby Business</b></summary>
+ 
+- [Search Nearyby Business](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Search%20Nearby%20Business)
+</details>
 
 All units projects (course projects )
 ==========================
