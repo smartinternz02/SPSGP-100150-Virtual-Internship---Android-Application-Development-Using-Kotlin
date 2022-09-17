@@ -10,7 +10,7 @@ Name: [Surya Teja Gorle](https://github.com/Mufasa-105)
 <details>
     <summary><b>Project : Grocery App</b></summary>
   
-- [Lemonade](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App
+- [Grocery App using Kotlin](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App
 )
 </details>
 
