@@ -2,7 +2,7 @@
 <p> As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything. </p>
 
 <h3>Subject :</h3>
-<p>A Grocery App made using Kotlin in Android Studio as a part of Virtual Internship provided by <b>SmartInternz and Google</b></p>
+<p>A Grocery App made using Kotlin in Android Studio as a part of Virtual Internship provided by <h3>SmartInternz and Google</h3></p>
 
 <h1>App Overview</h1>
 
