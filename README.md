@@ -10,6 +10,13 @@ Name: [Surya Teja Gorle](https://github.com/Mufasa-105)
 <details>
     <summary><b>Unit 1: Kotlin Basics</b></summary>
   
+- [Lemonade](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery%20App
+)
+</details>
+
+<details>
+    <summary><b>Unit 1: Kotlin Basics</b></summary>
+  
 - [Lemonade](https://github.com/smartinternz02/SPSGP-100150-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Unit-1%20Android%20basics%20in%20Kotlin)
 </details>
 
